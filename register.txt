@@ -1,4 +1,6 @@
 function register(){
 	ini fitur untuk register;
 	nah sekarang google;
+	nambah akun facebook untuk register;
+	tambah fitur otp untuk register;
 }
