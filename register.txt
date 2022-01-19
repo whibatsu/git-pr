@@ -1,3 +1,4 @@
 function register(){
 	ini fitur untuk register;
+	nambah akun facebook untuk register;
 }
