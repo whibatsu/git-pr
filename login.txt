@@ -1,5 +1,6 @@
 function login(){
 	ini fitur untuk login;
+	nah sekarang google;
 	nambah akun facebook untuk login;
 	tambah fitur otp untuk login;
 }
