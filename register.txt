@@ -1,4 +1,5 @@
 function register(){
 	ini fitur untuk register;
 	nambah akun facebook untuk register;
+	tambah fitur otp untuk register;
 }
